@@ -1,5 +1,7 @@
 package Chapter_3_4;
 
+// Constructor initializes and object in OOP
+
 public class Constructors {
 	String name;
 	int age;
